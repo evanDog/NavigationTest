@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Antifuture/StudioProjects/NavigationTest/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/zoom_out.png",
+        "source": "/Users/Antifuture/StudioProjects/NavigationTest/app/src/main/res/drawable-hdpi/zoom_out.png"
+    },
+    {
+        "merged": "/Users/Antifuture/StudioProjects/NavigationTest/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/Antifuture/StudioProjects/NavigationTest/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Antifuture/StudioProjects/NavigationTest/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/zoom_in.png",
+        "source": "/Users/Antifuture/StudioProjects/NavigationTest/app/src/main/res/drawable-hdpi/zoom_in.png"
+    }
+]

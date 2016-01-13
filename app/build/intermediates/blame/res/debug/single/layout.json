@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/Antifuture/StudioProjects/NavigationTest/app/build/intermediates/res/merged/debug/layout/navigation1.xml",
+        "source": "/Users/Antifuture/StudioProjects/NavigationTest/app/src/main/res/layout/navigation1.xml"
+    },
+    {
+        "merged": "/Users/Antifuture/StudioProjects/NavigationTest/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/Antifuture/StudioProjects/NavigationTest/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/Antifuture/StudioProjects/NavigationTest/app/build/intermediates/res/merged/debug/layout/inspection_onlyone_itemlist_child.xml",
+        "source": "/Users/Antifuture/StudioProjects/NavigationTest/app/src/main/res/layout/inspection_onlyone_itemlist_child.xml"
+    },
+    {
+        "merged": "/Users/Antifuture/StudioProjects/NavigationTest/app/build/intermediates/res/merged/debug/layout/inspection_onlyone_itemlist.xml",
+        "source": "/Users/Antifuture/StudioProjects/NavigationTest/app/src/main/res/layout/inspection_onlyone_itemlist.xml"
+    },
+    {
+        "merged": "/Users/Antifuture/StudioProjects/NavigationTest/app/build/intermediates/res/merged/debug/layout/navigation.xml",
+        "source": "/Users/Antifuture/StudioProjects/NavigationTest/app/src/main/res/layout/navigation.xml"
+    },
+    {
+        "merged": "/Users/Antifuture/StudioProjects/NavigationTest/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/Antifuture/StudioProjects/NavigationTest/app/src/main/res/layout/activity_main.xml"
+    }
+]
